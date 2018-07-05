@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`outer inner one test one 1`] = `1`;
+
+exports[`outer inner three test three 1`] = `3`;
+
+exports[`outer inner two test two 1`] = `2`;
